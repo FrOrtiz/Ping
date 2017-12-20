@@ -16,7 +16,9 @@ import java.io.Reader;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btPing, btClear, btIp;
+    private Button btPing;
+    private Button btClear;
+    private Button btIp;
     private TextView tvPing, tvIp;
     private EditText etPing;
 
